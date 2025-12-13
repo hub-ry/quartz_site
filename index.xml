@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>(¬_¬&quot;)</title>
+      <link>https://notes.ryhub.dev</link>
+      <description>Last 10 notes on (¬_¬&quot;)</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Updating Quartz Content</title>
+    <link>https://notes.ryhub.dev/Updating-Quartz-Content</link>
+    <guid>https://notes.ryhub.dev/Updating-Quartz-Content</guid>
+    <description><![CDATA[ I feel i have not been doing this most efficiently but this is my log of how I have been doing it as of 12-13-25. ]]></description>
+    <pubDate>Sat, 13 Dec 2025 08:07:18 GMT</pubDate>
+  </item><item>
+    <title>Finals Study Experiment</title>
+    <link>https://notes.ryhub.dev/Finals-Study-Experiment</link>
+    <guid>https://notes.ryhub.dev/Finals-Study-Experiment</guid>
+    <description><![CDATA[ One of my classes this semester we are not being given a study guide or any practice questions, just the promise that the test will cover every chapter of the book we covered in class. ]]></description>
+    <pubDate>Sat, 13 Dec 2025 07:06:12 GMT</pubDate>
+  </item><item>
+    <title>CSV</title>
+    <link>https://notes.ryhub.dev/Computer-Science/Data-Engineering/CSV</link>
+    <guid>https://notes.ryhub.dev/Computer-Science/Data-Engineering/CSV</guid>
+    <description><![CDATA[ This basically refers to any delimited text file, which means that data is separated by common, tab, space, etc. ]]></description>
+    <pubDate>Thu, 04 Dec 2025 22:42:10 GMT</pubDate>
+  </item><item>
+    <title>Introduction to Data Engineering</title>
+    <link>https://notes.ryhub.dev/Computer-Science/Data-Engineering/Introduction-to-Data-Engineering</link>
+    <guid>https://notes.ryhub.dev/Computer-Science/Data-Engineering/Introduction-to-Data-Engineering</guid>
+    <description><![CDATA[ First off, is there a difference between Data Engineering and Data Science? Data Engineering is the preparation, manipulation, and design of data for further analysis. ]]></description>
+    <pubDate>Thu, 04 Dec 2025 22:42:10 GMT</pubDate>
+  </item><item>
+    <title>JSON</title>
+    <link>https://notes.ryhub.dev/Computer-Science/Data-Engineering/JSON</link>
+    <guid>https://notes.ryhub.dev/Computer-Science/Data-Engineering/JSON</guid>
+    <description><![CDATA[  JSON is a way of encapsulating Javascript objects. JSON data looks like a dictionary in Python, with keys and values stored. ]]></description>
+    <pubDate>Thu, 04 Dec 2025 22:42:10 GMT</pubDate>
+  </item><item>
+    <title>Pandas</title>
+    <link>https://notes.ryhub.dev/Computer-Science/Data-Engineering/Pandas</link>
+    <guid>https://notes.ryhub.dev/Computer-Science/Data-Engineering/Pandas</guid>
+    <description><![CDATA[ Pandas Essentials Pandas is a third party tool to work with tabular data. CSV, excel, JSON easily – XML is a little more difficult. ]]></description>
+    <pubDate>Thu, 04 Dec 2025 22:42:10 GMT</pubDate>
+  </item><item>
+    <title>unfinished</title>
+    <link>https://notes.ryhub.dev/Computer-Science/unfinished</link>
+    <guid>https://notes.ryhub.dev/Computer-Science/unfinished</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 02 Dec 2025 06:52:24 GMT</pubDate>
+  </item><item>
+    <title>unfinished</title>
+    <link>https://notes.ryhub.dev/Language/unfinished</link>
+    <guid>https://notes.ryhub.dev/Language/unfinished</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 02 Dec 2025 06:52:24 GMT</pubDate>
+  </item><item>
+    <title>Links (of mine)</title>
+    <link>https://notes.ryhub.dev/Links-(of-mine)</link>
+    <guid>https://notes.ryhub.dev/Links-(of-mine)</guid>
+    <description><![CDATA[ [Spotify] [Github] [Gram]. ]]></description>
+    <pubDate>Tue, 02 Dec 2025 06:52:24 GMT</pubDate>
+  </item><item>
+    <title>Ryan&#039;s NoteSpace</title>
+    <link>https://notes.ryhub.dev/</link>
+    <guid>https://notes.ryhub.dev/</guid>
+    <description><![CDATA[ Welcome to my NoteSpace! Anything could appear here, to your left I have some folders with things I write about the most. ]]></description>
+    <pubDate>Tue, 02 Dec 2025 06:52:24 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
