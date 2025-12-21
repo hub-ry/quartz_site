@@ -95,60 +95,16 @@
             "id": "7858a7ac7540d133",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "content/Data Engineering/Core/Multi-index.md",
-                "mode": "source",
-                "source": false
+                "file": "public/index-og-image.webp"
               },
-              "icon": "lucide-file",
-              "title": "Multi-index"
-            }
-          },
-          {
-            "id": "cc109b29aeb47d10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Data Engineering/Index - Data Engineering.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Index - Data Engineering"
-            }
-          },
-          {
-            "id": "8d7c6c8fa53a6ecd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Data Engineering/Index - Data Engineering.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Index - Data Engineering"
-            }
-          },
-          {
-            "id": "51685436b395923a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Updating Quartz Content.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Updating Quartz Content"
+              "icon": "lucide-image",
+              "title": "index-og-image"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -307,38 +263,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "51685436b395923a",
+  "active": "69229f65cd3087c0",
   "lastOpenFiles": [
-    "public/index-og-image.webp",
+    "quartz/Untitled",
     "public/Updating-Quartz-Content-og-image.webp",
-    "public/Language/unfinished-og-image.webp",
-    "public/Forest/Vueltas---Translated-og-image.webp",
-    "public/Forest/BtTYFCBEWBO---Translated-og-image.webp",
-    "public/Finals-Study-Experiment-og-image.webp",
-    "public/Discrete-Math-and-More/Recursive-Defintions-og-image.webp",
-    "public/Discrete-Math-and-More/Pseudo-Recurse-og-image.webp",
-    "public/Discrete-Math-and-More/Planar-Graphs-og-image.webp",
-    "public/Discrete-Math-and-More/Number-Theory-2-og-image.webp",
-    "public/Discrete-Math-and-More/Graphs-and-Theory-og-image.webp",
-    "public/index.html",
-    "public/Updating-Quartz-Content.html",
-    "public/Finals-Study-Experiment.html",
-    "public/Data-Engineering/Overview/Reshaping-and-Grouping-Data.html",
-    "public/Data-Engineering/Overview/Pandas.html",
-    "public/Data-Engineering/Overview/JSON.html",
-    "public/Data-Engineering/Overview/Introduction-to-Data-Engineering.html",
-    "public/Data-Engineering/Overview/Data-Wrangling.html",
-    "public/Data-Engineering/Overview/Data-Transformation.html",
-    "public/Data-Engineering/Overview/Data-Selection.html",
-    "content/index.md",
+    "public/index-og-image.webp",
     "content/Updating Quartz Content.md",
-    "content/Forest/Vueltas - Translated.md",
-    "content/Forest/BtTYFCBEWBO - Translated.md",
-    "content/Language/unfinished.md",
-    "content/Discrete Math and More/Discrete Probability.md",
-    "content/Links (of mine).md",
-    "content/Discrete Math and More/Bayes Theorem.md",
-    "content/Discrete Math and More/Algorithms and Big-O.md",
     "content/Discrete Math and More/Recursive Defintions.md",
     "content/Discrete Math and More/Pseudo Recurse.md",
     "content/Discrete Math and More/Planar Graphs.md",
@@ -348,12 +278,38 @@
     "content/Discrete Math and More/Graph Coloring.md",
     "content/Discrete Math and More/Finite Automata.md",
     "content/Discrete Math and More/Euler Circuits.md",
-    "content/Finals Study Experiment.md",
-    "content/Structural Induction with Trees.md",
-    "content/Untitled.md",
-    "content/Discrete Notes.md",
+    "content/Discrete Math and More/Discrete Probability.md",
+    "content/Discrete Math and More/Bayes Theorem.md",
+    "content/Discrete Math and More/Algorithms and Big-O.md",
+    "content/Discrete Math and More",
+    "content/index.md",
+    "content/Data Engineering/Overview/JSON.md",
+    "content/Data Engineering/Overview/Reshaping and Grouping Data.md",
+    "content/Data Engineering/Overview/Pandas.md",
+    "content/Data Engineering/Overview/CSV.md",
+    "content/Data Engineering/Overview/Combining DataFrames.md",
+    "content/Data Engineering/Overview/Data Transformation.md",
+    "content/Data Engineering/Overview/Introduction to Data Engineering.md",
+    "content/Data Engineering/Overview/Data Wrangling.md",
     "content/Data Engineering/Overview/Data Selection.md",
-    "content/cheat sheet.md",
-    "content/Data Engineering/Core/Indexing and Slicing.md"
+    "content/Data Engineering/Core/unstack().md",
+    "content/Data Engineering/Core/sort by index.md",
+    "content/Data Engineering/Overview",
+    "content/Data Engineering/Core",
+    "content/Data Engineering",
+    "content/Language",
+    "content/Forest",
+    "content",
+    "public/Language/unfinished-og-image.webp",
+    "public/Forest/Vueltas---Translated-og-image.webp",
+    "public/Forest/BtTYFCBEWBO---Translated-og-image.webp",
+    "public/Finals-Study-Experiment-og-image.webp",
+    "public/Discrete-Math-and-More/Recursive-Defintions-og-image.webp",
+    "public/Discrete-Math-and-More/Pseudo-Recurse-og-image.webp",
+    "public/Discrete-Math-and-More/Planar-Graphs-og-image.webp",
+    "public/Discrete-Math-and-More/Number-Theory-2-og-image.webp",
+    "public/index.html",
+    "public/Updating-Quartz-Content.html",
+    "public/Finals-Study-Experiment.html"
   ]
 }
