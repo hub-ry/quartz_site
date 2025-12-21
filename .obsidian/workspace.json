@@ -1,0 +1,359 @@
+{
+  "main": {
+    "id": "10a8479f8dfd207f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e0c12d076829a41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e27ba23dff32f9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Computer Science/Data Engineering/Introduction to Data Engineering.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction to Data Engineering"
+            }
+          },
+          {
+            "id": "bb103b1fcd68512b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Graphs and Theory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Graphs and Theory"
+            }
+          },
+          {
+            "id": "0406a86e3ba0a195",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Planar Graphs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Planar Graphs"
+            }
+          },
+          {
+            "id": "d1ec4a8d3881e343",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Data Engineering/Core/Indexing and Slicing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Indexing and Slicing"
+            }
+          },
+          {
+            "id": "6a33f0f6d1d68458",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Data Engineering/Core/sort by index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sort by index"
+            }
+          },
+          {
+            "id": "117f3d5f7b5ab1d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Data Engineering/Core/Visualization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Visualization"
+            }
+          },
+          {
+            "id": "7858a7ac7540d133",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Data Engineering/Core/Multi-index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Multi-index"
+            }
+          },
+          {
+            "id": "cc109b29aeb47d10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Data Engineering/Index - Data Engineering.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Index - Data Engineering"
+            }
+          },
+          {
+            "id": "8d7c6c8fa53a6ecd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Data Engineering/Index - Data Engineering.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Index - Data Engineering"
+            }
+          },
+          {
+            "id": "51685436b395923a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Updating Quartz Content.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Updating Quartz Content"
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd6c784ebf207ed0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f84b61d2d19139c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69229f65cd3087c0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4e846256284dbed6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6bafb18cf2464cbc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 204.5
+  },
+  "right": {
+    "id": "83187f8d2973f9fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b95a5808c4153b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1183347667b92376",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "683a6abd3a1330b2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "03d52201c567da5b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "91bee07d95b9d86c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c94c67770362c062",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "51685436b395923a",
+  "lastOpenFiles": [
+    "public/index-og-image.webp",
+    "public/Updating-Quartz-Content-og-image.webp",
+    "public/Language/unfinished-og-image.webp",
+    "public/Finals-Study-Experiment-og-image.webp",
+    "public/Discrete-Math-and-More/Recursive-Defintions-og-image.webp",
+    "public/Discrete-Math-and-More/Pseudo-Recurse-og-image.webp",
+    "public/Discrete-Math-and-More/Planar-Graphs-og-image.webp",
+    "public/Discrete-Math-and-More/Number-Theory-2-og-image.webp",
+    "public/Discrete-Math-and-More/Graphs-and-Theory-og-image.webp",
+    "public/Discrete-Math-and-More/Graphic-Sequences-og-image.webp",
+    "public/Discrete-Math-and-More/Graph-Coloring-og-image.webp",
+    "public/index.html",
+    "public/Updating-Quartz-Content.html",
+    "public/Finals-Study-Experiment.html",
+    "public/Data-Engineering/Index---Data-Engineering.html",
+    "public/Data-Engineering/Core/unstack().html",
+    "public/Data-Engineering/Core/sort-by-index.html",
+    "public/Data-Engineering/Core/pandas.cut().html",
+    "public/Data-Engineering/Core/groupby().html",
+    "public/Data-Engineering/Core/filtering.html",
+    "public/postscript.js",
+    "content/Discrete Math and More/Discrete Probability.md",
+    "content/Links (of mine).md",
+    "content/Discrete Math and More/Bayes Theorem.md",
+    "content/Discrete Math and More/Algorithms and Big-O.md",
+    "content/Discrete Math and More/Recursive Defintions.md",
+    "content/Discrete Math and More/Pseudo Recurse.md",
+    "content/Discrete Math and More/Planar Graphs.md",
+    "content/Discrete Math and More/Number Theory 2.md",
+    "content/Discrete Math and More/Graphs and Theory.md",
+    "content/Discrete Math and More/Graphic Sequences.md",
+    "content/Discrete Math and More/Graph Coloring.md",
+    "content/Discrete Math and More/Finite Automata.md",
+    "content/Discrete Math and More/Euler Circuits.md",
+    "content/Finals Study Experiment.md",
+    "content/Updating Quartz Content.md",
+    "content/index.md",
+    "content/Structural Induction with Trees.md",
+    "content/Untitled.md",
+    "content/Discrete Notes.md",
+    "content/Data Engineering/Overview/Data Selection.md",
+    "content/cheat sheet.md",
+    "content/Data Engineering/Core/Indexing and Slicing.md",
+    "content/Data Engineering/Core/Data Cleaning.md",
+    "content/Data Engineering/Core/filtering.md",
+    "content/Data Engineering/Core/Finding Interquartile Range.md"
+  ]
+}
