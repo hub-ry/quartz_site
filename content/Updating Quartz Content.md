@@ -8,13 +8,16 @@ The fastest way I have found to update the `gh-pages` branch is to rebuild in ma
 Note: if you only have gh-pages on github but not local run 
 `git fetch origin` ~ this fetches everything you don't have
 `git checkout gh-pages` ~ assuming gh-pages was a github branch to begin with 
-					    and fetch was successful 
+and fetch was successful 
+
 
 Maybe full guide below:
 
+```
 npx quartz build
 cd public
 git add -A
 git commit -m "Add new content"
 git push -f origin gh-pages
 cd ..
+```

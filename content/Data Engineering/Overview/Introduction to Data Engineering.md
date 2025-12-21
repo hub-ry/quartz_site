@@ -1,15 +1,13 @@
 
-First off, is there a difference between Data Engineering and Data Science?
+```
+is there a difference between Data Engineering and Data Science?
 
 Data Engineering is the preparation, manipulation, and design of data for further analysis.
 
-Data Science is an application domain to extract and build knowledge from data, a combination of CS and Statistics. 
+Data Science is an application domain to extract and build knowledge from data, a combination of CS and Statistics.
+```
 
 ---
-![comparison chart | 250](images/data_science_cmp.png)
-
----
-
 
 Common Data Formats:
 - [[CSV]]: (comma separate value)
@@ -17,3 +15,11 @@ Common Data Formats:
 - HTML/XML: (hypertext markup language / extensible markup language)
 - SQL and NoSQL databases
 
+CSV is easiest and extremely common.
+
+
+
+
+
+
+lost? ~ [[Index - Data Engineering]]
