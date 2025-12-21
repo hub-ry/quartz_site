@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Computer Science/Data Engineering/Introduction to Data Engineering.md",
+                "file": "content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction to Data Engineering"
-            }
-          },
-          {
-            "id": "bb103b1fcd68512b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Discrete Math and More/!BOOKS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "!BOOKS"
+              "title": "index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,11 +180,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "bb103b1fcd68512b",
+  "active": "7e27ba23dff32f9a",
   "lastOpenFiles": [
-    "content/Data Engineering/Index - Data Engineering.md",
     "content/Discrete Math and More/!BOOKS.md",
-    "content/Discrete Math and More/Pseudo Recurse.md",
     "content/Discrete Math and More/Graphs and Theory.md",
     "content/Discrete Math and More/Graph Coloring.md",
     "content/Discrete Math and More/Finite Automata.md",
@@ -207,11 +190,14 @@
     "content/Discrete Math and More/Algorithms and Big-O.md",
     "content/Discrete Math and More/Discrete Probability.md",
     "content/Discrete Math and More/Bayes Theorem.md",
+    "content/Discrete Math and More/Euler Circuits.md",
+    "content/index.md",
+    "content/Data Engineering/Index - Data Engineering.md",
+    "content/Finals Study Experiment.md",
+    "content/Discrete Math and More/Pseudo Recurse.md",
     "content/Discrete Math and More/Planar Graphs.md",
     "content/Discrete Math and More/Graphic Sequences.md",
-    "content/Discrete Math and More/Euler Circuits.md",
     "content/Discrete Math and More/Recursive Defintions.md",
-    "content/index.md",
     "content/Data Engineering/Core/Multi-Index.md",
     "content/Data Engineering/Core/Pivot vs Pivot Table.md",
     "content/Data Engineering/Core/Indexing and Slicing.md",
@@ -219,7 +205,6 @@
     "content/Data Engineering/Core/Data Cleaning.md",
     "content/Language/unfinished.md",
     "content/Language",
-    "content/Finals Study Experiment.md",
     "content/Forest/Vueltas - Translated.md",
     "content/Forest/BtTYFCBEWBO - Translated.md",
     "content/Forest",
