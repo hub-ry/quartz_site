@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>(¬_¬&quot;)</title>
+      <link>https://notes.ryhub.dev</link>
+      <description>Last 10 notes on (¬_¬&quot;)</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Data Cleaning</title>
+    <link>https://notes.ryhub.dev/Data-Engineering/Core/Data-Cleaning</link>
+    <guid>https://notes.ryhub.dev/Data-Engineering/Core/Data-Cleaning</guid>
+    <description><![CDATA[ Handling Duplicates: duplicated() ~ method by default, .duplicated() keeps the first piece of data in the series of duplicates. ]]></description>
+    <pubDate>Sun, 21 Dec 2025 00:25:42 GMT</pubDate>
+  </item><item>
+    <title>Finding Interquartile Range</title>
+    <link>https://notes.ryhub.dev/Data-Engineering/Core/Finding-Interquartile-Range</link>
+    <guid>https://notes.ryhub.dev/Data-Engineering/Core/Finding-Interquartile-Range</guid>
+    <description><![CDATA[ IQR is a vital concept, particularly for visualizing data spread and detecting unusual values. ]]></description>
+    <pubDate>Sun, 21 Dec 2025 00:25:42 GMT</pubDate>
+  </item><item>
+    <title>Indexing and Slicing</title>
+    <link>https://notes.ryhub.dev/Data-Engineering/Core/Indexing-and-Slicing</link>
+    <guid>https://notes.ryhub.dev/Data-Engineering/Core/Indexing-and-Slicing</guid>
+    <description><![CDATA[ loc and iloc data.loc[&lt;row indexes&gt;, &lt;column names&gt;] can use a number, slice, or list for row can only use a list of names for column names includes last element data.iloc[row indexes&gt;, &lt;column indexes&gt;] can use a number, slice, or list for row can use a number, slice, or list f... ]]></description>
+    <pubDate>Sun, 21 Dec 2025 00:25:42 GMT</pubDate>
+  </item><item>
+    <title>Merging</title>
+    <link>https://notes.ryhub.dev/Data-Engineering/Core/Merging</link>
+    <guid>https://notes.ryhub.dev/Data-Engineering/Core/Merging</guid>
+    <description><![CDATA[ Note: PANDAS MERGE IS ALWAYS SMART ABOUT MATCHING COLUMN NAMES Inner Joins - Default merge df_join=pd.merge(df_student, df_gpa) In no columns to merge are specified, merge identifies columns with matching names. ]]></description>
+    <pubDate>Sun, 21 Dec 2025 00:25:42 GMT</pubDate>
+  </item><item>
+    <title>Multi-Index</title>
+    <link>https://notes.ryhub.dev/Data-Engineering/Core/Multi-Index</link>
+    <guid>https://notes.ryhub.dev/Data-Engineering/Core/Multi-Index</guid>
+    <description><![CDATA[  set_index() reset_index() pivot() pivot_table() stack() unstack() groupby() Pivot vs Pivot Table lost? ~ Index - Data Engineering. ]]></description>
+    <pubDate>Sun, 21 Dec 2025 00:25:42 GMT</pubDate>
+  </item><item>
+    <title>Pivot vs Pivot Table</title>
+    <link>https://notes.ryhub.dev/Data-Engineering/Core/Pivot-vs-Pivot-Table</link>
+    <guid>https://notes.ryhub.dev/Data-Engineering/Core/Pivot-vs-Pivot-Table</guid>
+    <description><![CDATA[  Featurepivot()pivot_table()DuplicatesNO!HandledAggregationNoneYesSpeedFasterSlowerUse case1-1 Mapping (clean data)Real World Messy data df.pivot_table(index=&#039;Date&#039;, columns=&#039;Person&#039;, values=&#039;Mood&#039;, aggfunc=[&#039;mean&#039;, &#039;max&#039;, &#039;count&#039;]) lost? ~... ]]></description>
+    <pubDate>Sun, 21 Dec 2025 00:25:42 GMT</pubDate>
+  </item><item>
+    <title>Visualization</title>
+    <link>https://notes.ryhub.dev/Data-Engineering/Core/Visualization</link>
+    <guid>https://notes.ryhub.dev/Data-Engineering/Core/Visualization</guid>
+    <description><![CDATA[  Scatter Plot Histogram Density plot Bar chart Box plot Finding Interquartile Range lost? ~ Index - Data Engineering. ]]></description>
+    <pubDate>Sun, 21 Dec 2025 00:25:42 GMT</pubDate>
+  </item><item>
+    <title>filtering</title>
+    <link>https://notes.ryhub.dev/Data-Engineering/Core/filtering</link>
+    <guid>https://notes.ryhub.dev/Data-Engineering/Core/filtering</guid>
+    <description><![CDATA[ select specific combinations of rows: data_zillow[data.zillow.BEDS == 3] data_zillow[(data_zillow.BEDS == 3) &amp; (data_zillow.YEAR &gt; 2000)] lost? ~ Index - Data Engineering. ]]></description>
+    <pubDate>Sun, 21 Dec 2025 00:25:42 GMT</pubDate>
+  </item><item>
+    <title>groupby()</title>
+    <link>https://notes.ryhub.dev/Data-Engineering/Core/groupby()</link>
+    <guid>https://notes.ryhub.dev/Data-Engineering/Core/groupby()</guid>
+    <description><![CDATA[ groupby() lets you split your data into groups and then perform operations on each group separately. ]]></description>
+    <pubDate>Sun, 21 Dec 2025 00:25:42 GMT</pubDate>
+  </item><item>
+    <title>pandas.cut()</title>
+    <link>https://notes.ryhub.dev/Data-Engineering/Core/pandas.cut()</link>
+    <guid>https://notes.ryhub.dev/Data-Engineering/Core/pandas.cut()</guid>
+    <description><![CDATA[ to segment continuous numerical data into discrete intervals or bins pandas.pydata.org/docs/reference/api/pandas.cut.html#pandas.cut lost? ~ Index - Data Engineering. ]]></description>
+    <pubDate>Sun, 21 Dec 2025 00:25:42 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
