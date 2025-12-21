@@ -41,26 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Planar Graphs.md",
+                "file": "content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Planar Graphs"
-            }
-          },
-          {
-            "id": "d1ec4a8d3881e343",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -219,8 +209,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "69229f65cd3087c0",
+  "active": "0406a86e3ba0a195",
   "lastOpenFiles": [
+    "content/Updating Quartz Content.md",
+    "content/index.md",
+    "content/Finals Study Experiment.md",
+    "public/Updating-Quartz-Content-og-image.webp",
+    "public/index-og-image.webp",
     "content/Data Engineering/Overview/Combining DataFrames.md",
     "content/Data Engineering/Core/Indexing and Slicing.md",
     "content/Data Engineering/Overview/Pandas.md",
@@ -244,9 +239,6 @@
     "content/Data Engineering/Core/Finding Interquartile Range.md",
     "content/Language/unfinished.md",
     "content/Forest/Vueltas - Translated.md",
-    "content/Forest/BtTYFCBEWBO - Translated.md",
-    "content/Discrete Math and More/Recursive Defintions.md",
-    "content/Discrete Math and More/Pseudo Recurse.md",
     "content/Data Engineering/Overview",
     "content/Data Engineering/Core",
     "content/Language",
@@ -254,8 +246,6 @@
     "content/Discrete Math and More",
     "content/Data Engineering",
     "content",
-    "public/index-og-image.webp",
-    "public/Updating-Quartz-Content-og-image.webp",
     "public/Language/unfinished-og-image.webp",
     "public/Forest/Vueltas---Translated-og-image.webp",
     "public/Forest/BtTYFCBEWBO---Translated-og-image.webp",
