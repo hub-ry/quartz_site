@@ -6,6 +6,12 @@
       <description>Last 10 notes on (¬_¬&quot;)</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Updating Quartz Content</title>
+    <link>https://notes.ryhub.dev/Updating-Quartz-Content</link>
+    <guid>https://notes.ryhub.dev/Updating-Quartz-Content</guid>
+    <description><![CDATA[ I feel i have not been doing this most efficiently but this is my log of how I have been doing it as of 12-13-25. ]]></description>
+    <pubDate>Sun, 21 Dec 2025 00:54:14 GMT</pubDate>
+  </item><item>
     <title>Data Cleaning</title>
     <link>https://notes.ryhub.dev/Data-Engineering/Core/Data-Cleaning</link>
     <guid>https://notes.ryhub.dev/Data-Engineering/Core/Data-Cleaning</guid>
@@ -58,12 +64,6 @@
     <link>https://notes.ryhub.dev/Data-Engineering/Core/groupby()</link>
     <guid>https://notes.ryhub.dev/Data-Engineering/Core/groupby()</guid>
     <description><![CDATA[ groupby() lets you split your data into groups and then perform operations on each group separately. ]]></description>
-    <pubDate>Sun, 21 Dec 2025 00:25:42 GMT</pubDate>
-  </item><item>
-    <title>pandas.cut()</title>
-    <link>https://notes.ryhub.dev/Data-Engineering/Core/pandas.cut()</link>
-    <guid>https://notes.ryhub.dev/Data-Engineering/Core/pandas.cut()</guid>
-    <description><![CDATA[ to segment continuous numerical data into discrete intervals or bins pandas.pydata.org/docs/reference/api/pandas.cut.html#pandas.cut lost? ~ Index - Data Engineering. ]]></description>
     <pubDate>Sun, 21 Dec 2025 00:25:42 GMT</pubDate>
   </item>
     </channel>
