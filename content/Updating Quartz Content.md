@@ -21,3 +21,15 @@ git commit -m "Add new content"
 git push -f origin gh-pages
 cd ..
 ```
+
+
+
+#### UPDATED:
+
+```
+npx quartz build
+git branch -D gh-pages
+git subtree split --prefix public -b gh-pages
+git push -f origin gh-pages
+git checkout main
+```
