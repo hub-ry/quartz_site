@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Updating Quartz Content.md",
+                "file": "content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Updating Quartz Content"
+              "title": "index"
             }
           }
         ],
@@ -205,7 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5
+    "width": 372.5
   },
   "right": {
     "id": "83187f8d2973f9fd",
@@ -312,6 +312,7 @@
     "public/index-og-image.webp",
     "public/Updating-Quartz-Content-og-image.webp",
     "public/Language/unfinished-og-image.webp",
+    "public/Forest/BtTYFCBEWBO---Translated-og-image.webp",
     "public/Finals-Study-Experiment-og-image.webp",
     "public/Discrete-Math-and-More/Recursive-Defintions-og-image.webp",
     "public/Discrete-Math-and-More/Pseudo-Recurse-og-image.webp",
@@ -319,17 +320,20 @@
     "public/Discrete-Math-and-More/Number-Theory-2-og-image.webp",
     "public/Discrete-Math-and-More/Graphs-and-Theory-og-image.webp",
     "public/Discrete-Math-and-More/Graphic-Sequences-og-image.webp",
-    "public/Discrete-Math-and-More/Graph-Coloring-og-image.webp",
     "public/index.html",
     "public/Updating-Quartz-Content.html",
     "public/Finals-Study-Experiment.html",
+    "public/Data-Engineering/Overview/Introduction-to-Data-Engineering.html",
+    "public/Data-Engineering/Overview/Data-Wrangling.html",
+    "public/Data-Engineering/Overview/Data-Selection.html",
+    "public/Data-Engineering/Overview/Combining-DataFrames.html",
+    "public/Data-Engineering/Overview/CSV.html",
     "public/Data-Engineering/Index---Data-Engineering.html",
-    "public/Data-Engineering/Core/Visualization.html",
-    "public/Data-Engineering/Core/Pivot-vs-Pivot-Table.html",
-    "public/postscript.js",
-    "public/Data-Engineering/Core/Multi-Index.html",
-    "public/prescript.js",
-    "public/Language/unfinished.html",
+    "public/Data-Engineering/Core/unstack().html",
+    "content/Updating Quartz Content.md",
+    "content/index.md",
+    "content/Forest/BtTYFCBEWBO - Translated.md",
+    "content/Language/unfinished.md",
     "content/Discrete Math and More/Discrete Probability.md",
     "content/Links (of mine).md",
     "content/Discrete Math and More/Bayes Theorem.md",
@@ -344,16 +348,12 @@
     "content/Discrete Math and More/Finite Automata.md",
     "content/Discrete Math and More/Euler Circuits.md",
     "content/Finals Study Experiment.md",
-    "content/Updating Quartz Content.md",
-    "content/index.md",
     "content/Structural Induction with Trees.md",
     "content/Untitled.md",
     "content/Discrete Notes.md",
     "content/Data Engineering/Overview/Data Selection.md",
     "content/cheat sheet.md",
     "content/Data Engineering/Core/Indexing and Slicing.md",
-    "content/Data Engineering/Core/Data Cleaning.md",
-    "content/Data Engineering/Core/filtering.md",
-    "content/Data Engineering/Core/Finding Interquartile Range.md"
+    "content/Data Engineering/Core/Data Cleaning.md"
   ]
 }

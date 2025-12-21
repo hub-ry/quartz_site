@@ -6,6 +6,12 @@
       <description>Last 10 notes on (¬_¬&quot;)</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>BtTYFCBEWBO - Translated</title>
+    <link>https://notes.ryhub.dev/Forest/BtTYFCBEWBO---Translated</link>
+    <guid>https://notes.ryhub.dev/Forest/BtTYFCBEWBO---Translated</guid>
+    <description><![CDATA[ 밤이 너무 길어서 매일을 곪아 있던 너의 When your weary eyes stare at me as the night gets long 풀린 두 눈이 나를 볼 때, 순애를 믿는 난 바보 같아 I felt like a fool who believes in pure love 어린 마음이 금세 어른이 됐어 A young heart grew up too quickly 사랑해 너의 몸의 멍 I love the bruises on your body 네 아빠가 돌아올 때쯤엔 모든 게 끝나있을 거야 By the time your father... ]]></description>
+    <pubDate>Sun, 21 Dec 2025 03:57:24 GMT</pubDate>
+  </item><item>
     <title>Updating Quartz Content</title>
     <link>https://notes.ryhub.dev/Updating-Quartz-Content</link>
     <guid>https://notes.ryhub.dev/Updating-Quartz-Content</guid>
@@ -58,12 +64,6 @@
     <link>https://notes.ryhub.dev/Data-Engineering/Core/filtering</link>
     <guid>https://notes.ryhub.dev/Data-Engineering/Core/filtering</guid>
     <description><![CDATA[ select specific combinations of rows: data_zillow[data.zillow.BEDS == 3] data_zillow[(data_zillow.BEDS == 3) &amp; (data_zillow.YEAR &gt; 2000)] lost? ~ Index - Data Engineering. ]]></description>
-    <pubDate>Sun, 21 Dec 2025 00:25:42 GMT</pubDate>
-  </item><item>
-    <title>groupby()</title>
-    <link>https://notes.ryhub.dev/Data-Engineering/Core/groupby()</link>
-    <guid>https://notes.ryhub.dev/Data-Engineering/Core/groupby()</guid>
-    <description><![CDATA[ groupby() lets you split your data into groups and then perform operations on each group separately. ]]></description>
     <pubDate>Sun, 21 Dec 2025 00:25:42 GMT</pubDate>
   </item>
     </channel>

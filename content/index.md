@@ -4,9 +4,7 @@ title: Ryan's NoteSpace
 ---
 Welcome to my NoteSpace!
 
-Anything could appear here, to your left I have some folders with things I write about the most.
-This site is created with [Quartz4](https://quartz.jzhao.xyz/). A static site generator that can turn markdown into a website. I take most of my university and personal notes in markdown, so
-[Quartz](https://quartz.jzhao.xyz/) is amazing. 
+Here you will find all of my personal notes that I am willing to share :)
 
-Anyway, I am writing this during finals week– so bye!
+I am actually not a big notetaker, the notes that are in here we often made in retrospect or to consolidate the things that I have learned. I hope to grow this garden enough so its possible to get lost in, just in case I was successful, check out the graph -->
 
