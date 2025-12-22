@@ -56,3 +56,6 @@ If both hold, with your selected rate, that is Big Theta.
 
 
 **this note was imported from my other vault, ideas are not complete :(**
+
+
+[[Discrete Math]]

@@ -62,3 +62,8 @@ i wrote it down srr its not going here.
 
 
 **this note was imported from my other vault, ideas are not complete :(**
+
+
+
+
+[[Discrete Math]]

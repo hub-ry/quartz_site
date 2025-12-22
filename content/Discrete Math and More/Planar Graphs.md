@@ -44,3 +44,8 @@ Final Topic:
 
 
 **this note was imported from my other vault, ideas are not complete :(**
+
+
+
+
+[[Discrete Math]]

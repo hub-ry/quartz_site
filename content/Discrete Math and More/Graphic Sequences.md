@@ -14,3 +14,7 @@ The main standards for a sequence to be graphic is
 
 
 **this note was imported from my other vault, ideas are not complete :(**
+
+
+
+[[Discrete Math]]

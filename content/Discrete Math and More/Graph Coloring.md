@@ -34,3 +34,7 @@ Just pick a random vertex, assign it a color, then assign everything its connect
 
 
 **this note was imported from my other vault, ideas are not complete :(**
+
+
+
+[[Discrete Math]]
