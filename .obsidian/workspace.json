@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "1e0c12d076829a41",
+        "id": "64d0171624234330",
         "type": "tabs",
         "children": [
           {
-            "id": "7e27ba23dff32f9a",
+            "id": "017484967f05f6b2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Discrete Math and More/!BOOKS.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "!BOOKS"
-            }
-          },
-          {
-            "id": "39d57b1105db0152",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Discrete Math and More/Recursive Defintions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Recursive Defintions"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,14 +176,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "39d57b1105db0152",
+  "active": "69229f65cd3087c0",
   "lastOpenFiles": [
+    "content/Forest/PyTest.md",
+    "content/Forest/Untitled.md",
+    "content/Language/Notes.md",
+    "content/C++/empty.md",
+    "content/Discrete Math and More/Untitled",
+    "content/Discrete Math and More/Recursive Defintions.md",
     "content/Discrete Math and More/Pseudo Recurse.md",
     "content/Discrete Math and More/Planar Graphs.md",
     "content/Discrete Math and More/Number Theory 2.md",
     "content/Discrete Math and More/Graphs and Theory.md",
-    "content/Discrete Math and More/Graphic Sequences.md",
     "content/Discrete Math and More/Graph Coloring.md",
+    "content/Discrete Math and More/Graphic Sequences.md",
     "content/Discrete Math and More/Finite Automata.md",
     "content/Discrete Math and More/Euler Circuits.md",
     "content/Discrete Math and More/Discrete Probability.md",
@@ -210,24 +197,18 @@
     "content/Discrete Math and More/Bayes Theorem.md",
     "content/Discrete Math and More/Algorithms and Big-O.md",
     "content/Discrete Math and More/!BOOKS.md",
-    "content/C++",
-    "content/Discrete Math and More/Untitled",
+    "content/Discrete Math and More",
     "content/index.md",
+    "content/Data Engineering/Overview/Data Wrangling.md",
+    "content/Data Engineering/Overview/Data Selection.md",
+    "content/Data Engineering/Overview/CSV.md",
     "content/Data Engineering/Index - Data Engineering.md",
     "content/Language/unfinished.md",
-    "content/Finals Study Experiment.md",
-    "content/Forest/Vueltas - Translated.md",
-    "content/Forest/BtTYFCBEWBO - Translated.md",
-    "content/Discrete Math and More/Recursive Defintions.md",
-    "content/Discrete Math and More",
-    "content/Data Engineering/Overview/CSV.md",
     "content/Language",
+    "content/Finals Study Experiment.md",
+    "content/C++",
+    "content/Forest/Vueltas - Translated.md",
     "content/Forest",
-    "content/Data Engineering/Core/Multi-Index.md",
-    "content/Data Engineering/Core/Finding Interquartile Range.md",
-    "content/Data Engineering/Core/Data Cleaning.md",
-    "content/Data Engineering/Core/Pivot vs Pivot Table.md",
-    "content/Data Engineering/Core/Indexing and Slicing.md",
     "public/Updating-Quartz-Content-og-image.webp",
     "public/index-og-image.webp",
     "content/Data Engineering/Overview",
