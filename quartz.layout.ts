@@ -10,6 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       GitHub: "https://github.com/hub-ry/quartz_site",
       LandingPage: "https://ryhub.dev/",
+      Spotify: "https://open.spotify.com/user/8tk14z394g4cbv8zwag6k1ehy?si=f125efa84fc24ae4",
     },
   }),
 }
