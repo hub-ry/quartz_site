@@ -20,3 +20,9 @@ WHERE Country='Mexico'
 |BETWEEN|Between a certain range||
 |LIKE|Search for a pattern||
 |IN|To specify multiple possible values for a column|
+
+
+
+
+[[SQL Intro]] and https://www.w3schools.com/sql/sql_quickref.asp
+

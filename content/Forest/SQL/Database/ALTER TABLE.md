@@ -24,3 +24,12 @@ To delete a column in a table, use the following syntax (notice that some databa
 ALTER TABLE Customers  
 DROP COLUMN Email;
 ```
+
+
+
+
+
+
+
+
+[[DataBase]] and https://www.w3schools.com/sql/sql_quickref.asp

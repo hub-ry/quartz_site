@@ -24,3 +24,12 @@ Example:
 
 Delete a Table:
 `DROP TABLE Customers;`
+
+
+
+
+
+
+
+
+[[SQL Intro]] and https://www.w3schools.com/sql/sql_quickref.asp

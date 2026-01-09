@@ -41,3 +41,11 @@ A record, also called a row, is each individual entry that exists in a table. Fo
 it seems to be extremely similar to [[CSV]]
 
 
+
+
+
+
+
+
+
+[[SQL Intro]] and https://www.w3schools.com/sql/sql_quickref.asp

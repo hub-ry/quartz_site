@@ -27,3 +27,11 @@ Using both ASC and DESC
 
 `SELECT * FROM Customers  `
 `ORDER BY Country ASC, CustomerName DESC;`
+
+
+
+
+
+
+
+[[SQL Intro]] and https://www.w3schools.com/sql/sql_quickref.asp

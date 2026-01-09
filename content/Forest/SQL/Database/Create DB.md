@@ -40,3 +40,11 @@ TO DISK = 'D:\backups\testDB.bak'
 WITH DIFFERENTIAL;
 
 ```
+
+
+
+
+
+
+
+[[DataBase]] and https://www.w3schools.com/sql/sql_quickref.asp

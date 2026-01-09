@@ -27,3 +27,14 @@ The `TRUNCATE TABLE` statement is used to delete the data inside a table, but 
 
 TRUNCATE TABLE table_name;
 ```
+
+
+
+
+
+
+
+
+
+
+[[DataBase]] and https://www.w3schools.com/sql/sql_quickref.asp

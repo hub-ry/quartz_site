@@ -28,3 +28,8 @@ WHERE Country='Mexico';
 
 
 Be careful when updating records. If you omit the `WHERE` clause, ALL records will be updated!
+
+
+
+
+[[SQL Intro]] and https://www.w3schools.com/sql/sql_quickref.asp
