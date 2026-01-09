@@ -33,3 +33,11 @@ __.-' ,._,' /  _.,'.(( ,-.
 
 
 This site runs on [Quartz](https://quartz.jzhao.xyz/). It is a static site generator that I have connected my Obsidian Vault to. I recommend to skim over the [Philosophy of Quartz](https://quartz.jzhao.xyz/philosophy). It is what inspired me to use it!
+
+
+My projects showcase page is currently under construction :( 
+Make sure to check out my [Github](https://github.com/hub-ry). Some of my projects are required to be in private repositories, I am working on making YouTube showcase videos for those projects!
+
+In the mean time:
+
+[[Making My Landing Page]]

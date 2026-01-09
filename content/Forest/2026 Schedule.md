@@ -30,3 +30,4 @@
 			- 3 meals
 			- gym
 			- guitar + spanish (min 1 hr combined)
+			- any work that needs to be done
