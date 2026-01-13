@@ -152,4 +152,3 @@ Shoutout my favorite creators who inspire me
 
 
 
-link to video: https://youtu.be/zfHE0VJgDVo?si=lNOm37dUMb2fr2TB
