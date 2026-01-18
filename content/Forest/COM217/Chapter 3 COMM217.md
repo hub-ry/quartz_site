@@ -20,7 +20,7 @@ Habitualization - gets easier as you speak
 Sensitzation - get harder as you speak
 
 
-he theory is that sensitizers are more sensitive to changes in their bodies, and stress symptoms such as increased heart rate or sweaty palms lead to even more anxiety.6 It may comfort you to know that the majority of people are habituators; once they stand up and start speaking, their anxiety levels will decrease.6
+The theory is that sensitizers are more sensitive to changes in their bodies, and stress symptoms such as increased heart rate or sweaty palms lead to even more anxiety. It may comfort you to know that the majority of people are habituators; once they stand up and start speaking, their anxiety levels will decrease.
 
 
 
