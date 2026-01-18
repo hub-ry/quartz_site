@@ -1,6 +1,5 @@
 ---
 title: Ryan's NoteSpace
-
 ---
 Welcome to my NoteSpace!
 
@@ -35,5 +34,9 @@ __.-' ,._,' /  _.,'.(( ,-.
 This site runs on [Quartz](https://quartz.jzhao.xyz/). It is a static site generator that I have connected my Obsidian Vault to. I recommend to skim over the [Philosophy of Quartz](https://quartz.jzhao.xyz/philosophy). It is what inspired me to use it!
 
 
-Feeling Lost? Start Here 
+Feeling Lost? Start Here:
 [[Making My Landing Page]]
+
+
+**What I've Been up to Lately:** 
+[[Building Personal Linux SSH Server]]

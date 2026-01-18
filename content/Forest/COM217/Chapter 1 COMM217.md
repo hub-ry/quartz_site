@@ -1,3 +1,8 @@
+---
+aliases:
+tags:
+  - COM217
+---
 
 
 - Purdue (Mitch) introduces civics literacy test.
