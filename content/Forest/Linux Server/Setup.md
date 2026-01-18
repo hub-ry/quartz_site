@@ -1,94 +1,108 @@
-# 🖥️ Linux Server + Global SSH Access (University-Friendly, Free)
+The reason I started this project was to learn, but also because using third party products such as Replit was very annoying (specifically at their free tiers).
 
-## Goal
-Turn an old PC into a Linux server and **SSH into it from anywhere in the world**, even on **university Wi-Fi**, **without port forwarding**, **without paying**, and **without touching routers**.
+This Linux PC will stay on 24/7, in my university dorm.
+#### Hardware
 
----
+Model : HP Slimline Desktop PC 270-p0xx
+Processor : Intel Core i3- 7100 x 4
+Memory : 16 gigs , i added an extra 8 gigs of ram
+Graphics : Intel HD Graphics 630 (integrated)
+Disk Capacity : 1.0 TB
 
-## 🧰 Requirements
+This was a pc I found in my family's attic. I only added extra ram because I had some lying around. 
 
-### Hardware
-- Old PC (this will become the server)
-- Laptop (used only to create the installer)
-- **USB flash drive (8 GB or larger)**
+I also have a nicer gaming pc that runs windows and a Mac with MacOS, so its fair to say this project is rounding out my OS knowledge.
 
-### Accounts
-- A **Google, GitHub, or email account** (for Tailscale login)
+#### Downloading Linux
 
----
+I chose to use Ubuntu. Maybe I'll explore other Distros one day, but I plan to use the combination of [open-ssh](https://www.openssh.org/),  [tailscale](https://tailscale.com/) and [flask](https://flask.palletsprojects.com/en/stable/) for personal project such as creating my own server.
 
-## 🧠 Why a USB Is Required
-A computer **cannot overwrite its own operating system while running it**.  
-The USB acts as **temporary bootable media** so Linux can be installed cleanly.
+I watched a YouTube video for the install. I couldn't remember which one but it just used USB stick and [Etcher](https://etcher.balena.io/)
 
----
+#### Config
 
-## PART 1 — Create the Linux Installer (on your laptop)
+I have a [NVIM](https://neovim.io/) setup, I use [quartz](https://quartz.jzhao.xyz/), I don't care to do more config for something I'm using as a server. That's part of the reason i chose Ubuntu (Mint was close second).
 
-### Step 1: Download Linux Mint XFCE
-Download **Linux Mint 22.1 XFCE (64-bit)** from the official website.
 
-**Why XFCE?**
-- Very lightweight
-- Ideal for old hardware
-- Stable and beginner-friendly
-- Perfect for servers that don’t need fancy visuals
+#### Tailscale (VPN Tunneling)
 
----
+One of the biggest issues I ran into at the start of making personal projects, was needing to be on the same network for flask methods to work. This was necessary because 
+1. I want to access project when I'm outside the network
+2. My server will be on university wifi, so there is no port forwarding workaround I could use.
 
-### Step 2: Install Balena Etcher
-Balena Etcher safely writes OS images to USB drives.
+Tailscale is one of the smoothest, easiest programs I have ever used, 10/10 btw.
 
-- Install it on your laptop
-- Works on Windows, macOS, and Linux
 
----
+#### open-ssh server
 
-### Step 3: Flash Linux to the USB
-1. Insert the USB flash drive
-2. Open **Balena Etcher**
-3. Select:
-   - **Flash from file** → Linux Mint ISO
-   - **Select target** → USB drive
-4. Click **Flash**
+I think this may be Ubuntu specific, at least to some extent. 
 
-⚠️ This erases the USB completely (expected).
-
----
-
-## PART 2 — Install Linux on the Old PC
-
-### Step 4: Boot from the USB
-1. Insert USB into the old PC
-2. Power it on
-3. Immediately press one of:
-   - `F12`, `ESC`, `F2`, or `DEL`
-4. Select the USB device from the boot menu
-
----
-
-### Step 5: Install Linux Mint
-When the desktop loads:
-1. Click **Install Linux Mint**
-2. Choose language and keyboard
-3. When asked about installation type:
-   - ✅ **Erase disk and install Linux Mint**
-4. Confirm warnings
-5. Create:
-   - Username
-   - Password
-6. Finish installation and reboot
-7. Remove USB when prompted
-
-🧹 **Result:** Windows is completely removed. All bloat is gone.
-
----
-
-## PART 3 — First-Time System Setup
-
-Open the **Terminal** on the Linux PC.
-
-### Step 6: Update the system
+Install on Linux
 ```bash
-sudo apt update && sudo apt upgrade -y
+sudo apt install openssh-server
+
+sudo systemctl start ssh sudo systemctl enable ssh
+
+bash
+sudo systemctl status ssh
+
+```
+
+
+##### Ssh Config [[ssh-config]]
+
+before any config:
+
+```
+ssh username@ip_of_linux_server
+password: __
+
+```
+
+to make the name shorter
+
+you do this on your local machine (locally)
+
+```
+vim ~/.ssh/config
+
+
+
+Host hub (or whatever you want to type)
+	HostName ip
+    User linux-username
+```
+
+
+now it will be 
+
+```
+ssh hub
+password: __
+```
+
+Now that password is still annoying, especially if there is 2fa.
+
+##### SSH Keys
+
+*non-ssh'd on your non server machine*
+
+```
+ssh-keygen -t ed25519
+
+ssh-copy-id hub
+
+password: __
+
+ssh hub
+```
+
+if you already have a generated key (specifically ed25519) you can do 
+
+```
+ssh-copy-id hub
+password: __
+```
+
+Now it works.
 
