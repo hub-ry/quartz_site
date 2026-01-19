@@ -1,3 +1,7 @@
+---
+tags:
+  - CS250
+---
 
 
 - "loaded on demand"

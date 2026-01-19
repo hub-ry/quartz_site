@@ -1,6 +1,7 @@
 ---
 tags:
   - SQL
+cssclasses:
 ---
 
 EACH THING HERE IS BECAUSE DIFFERENT SQL'S USE DIFFERENT SYNTAX
