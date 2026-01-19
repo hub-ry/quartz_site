@@ -1,3 +1,7 @@
+---
+tags:
+  - DSA
+---
 
 
 - Assumes that the data is sorted

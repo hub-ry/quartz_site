@@ -1,3 +1,9 @@
+---
+tags:
+  - DSA
+title: Proof of Binary Search runtime
+---
+
 How do we prove the respective runtime for this?
 
 

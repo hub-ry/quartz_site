@@ -1,3 +1,7 @@
+---
+tags:
+  - DSA
+---
 
 
 ##### Binary Search [[Binary Search]]

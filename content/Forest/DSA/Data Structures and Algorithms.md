@@ -1,3 +1,7 @@
+---
+tags:
+  - DSA
+---
 
 ### You've Seen DSA Before
 

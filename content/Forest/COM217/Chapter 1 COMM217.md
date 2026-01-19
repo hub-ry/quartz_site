@@ -75,5 +75,5 @@ it is not clear what is wrong and right when it comes to AI. The key idea though
 
 
 
-Next [[Chapter 3 COMM217]]
+
 

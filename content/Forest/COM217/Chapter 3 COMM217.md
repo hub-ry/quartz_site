@@ -1,6 +1,5 @@
 ---
 aliases:
-  - Com
 tags:
   - COM217
 ---
@@ -59,4 +58,3 @@ Symptoms:
 
 
 
-Prev: [[Chapter 1 COMM217]]
