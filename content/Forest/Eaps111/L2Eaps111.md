@@ -1,3 +1,7 @@
+---
+tags:
+  - Eaps111
+---
 
 
 Lecture 2, titled "**Plate Tectonics: The Big Picture; Part 1**," focuses on the basic data and mechanisms behind the movement of Earth's surface.
