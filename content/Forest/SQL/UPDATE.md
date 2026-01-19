@@ -1,3 +1,7 @@
+---
+tags:
+  - SQL
+---
 
 Modify existing records in a table.
 

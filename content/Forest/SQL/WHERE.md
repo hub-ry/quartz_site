@@ -1,3 +1,7 @@
+---
+tags:
+  - SQL
+---
 
 `SELECT * FROM Customers
 WHERE Country='Mexico'

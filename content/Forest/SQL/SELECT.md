@@ -1,3 +1,7 @@
+---
+tags:
+  - SQL
+---
 
 note: select **is** the same as SELECT
 

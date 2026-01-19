@@ -1,3 +1,7 @@
+---
+tags:
+  - SQL
+---
 
 Constraints can be specified when the table is created with the `CREATE TABLE` statement, or after the table is created with the `ALTER TABLE` statement.
 

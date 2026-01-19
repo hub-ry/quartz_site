@@ -1,3 +1,7 @@
+---
+tags:
+  - SQL
+---
 
 `SELECT * FROM Products
 ORDER BY Price;`

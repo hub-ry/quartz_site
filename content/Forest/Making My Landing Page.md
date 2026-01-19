@@ -1,3 +1,7 @@
+---
+tags:
+  - Forest
+---
 
 This is in reference to the Landing Page outside of quartz [here](https://ryhub.dev/). 
 

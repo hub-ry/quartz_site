@@ -1,3 +1,8 @@
+---
+tags:
+  - SQL
+---
+
 ## Some of The Most Important SQL Commands
 
 - `SELECT` - extracts data from a database

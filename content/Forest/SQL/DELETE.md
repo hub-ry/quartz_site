@@ -1,3 +1,7 @@
+---
+tags:
+  - SQL
+---
 
   Delete existing records in a table.
 

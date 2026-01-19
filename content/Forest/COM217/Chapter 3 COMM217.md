@@ -2,6 +2,7 @@
 aliases:
 tags:
   - COM217
+  - Forest
 ---
 
 Public speaking anxiety often manifests itself in poor delivery techniques such as nervous movements, poor eye contact, or rapid speech rate.

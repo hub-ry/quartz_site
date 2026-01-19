@@ -1,3 +1,7 @@
+---
+tags:
+  - Forest
+---
 
 
 .egg-info is a directory created by Python's packaging system when you install a package in editable mode (pip install -e .). It contains metadata about your package.

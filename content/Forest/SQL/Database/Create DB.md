@@ -1,3 +1,7 @@
+---
+tags:
+  - SQL
+---
 
 ```
 CREATE DATABASE databasename;
