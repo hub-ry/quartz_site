@@ -1,3 +1,8 @@
+---
+tags:
+  - Discrete-Math
+---
+
 - All degrees even + connected -> Euler **circuit**
 - Exactly 2 odd -> Euler **path**
 

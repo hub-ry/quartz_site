@@ -1,3 +1,7 @@
+---
+tags:
+  - Discrete-Math
+---
 
 
 A probability is a number between 1 and 0 associated with an event.

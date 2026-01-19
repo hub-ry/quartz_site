@@ -1,3 +1,8 @@
+---
+tags:
+  - Discrete-Math
+---
+
 $a_n = n^2$
 $a_0 = 0$
 $a_1 = 1$

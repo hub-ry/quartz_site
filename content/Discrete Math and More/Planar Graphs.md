@@ -1,3 +1,8 @@
+---
+tags:
+  - Discrete-Math
+---
+
 Consider the problem of connecting 3 houses to 3 separate utilities.
 
 Is it possible join these houses so none of these connections cross?

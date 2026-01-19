@@ -1,3 +1,7 @@
+---
+tags:
+  - Discrete-Math
+---
 
 _Give a recursive algorithm for finding the maximum of a_
 

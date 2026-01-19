@@ -1,3 +1,7 @@
+---
+tags:
+  - Discrete-Math
+---
 
 
 The time required to solve a problem is determined by:

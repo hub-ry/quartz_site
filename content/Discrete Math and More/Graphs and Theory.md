@@ -1,3 +1,7 @@
+---
+tags:
+  - Discrete-Math
+---
 
 I have previous knowledge of this, so important stuff will be left out at first.
 

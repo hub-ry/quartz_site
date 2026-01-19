@@ -1,3 +1,7 @@
+---
+tags:
+  - Discrete-Math
+---
 
 - A language is a set of strings
 - String - sequence of characters

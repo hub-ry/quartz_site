@@ -1,3 +1,7 @@
+---
+tags:
+  - Discrete-Math
+---
 
 Example (Using Bayes' without definition):
 

@@ -1,4 +1,8 @@
-
+---
+tags:
+  - Discrete-Math
+---
+0
 
 The main standards for a sequence to be graphic is
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Discrete-Math
+---
 
 Graph coloring was initially introduced to find bipartite graphs. What else can i be used to find?
 

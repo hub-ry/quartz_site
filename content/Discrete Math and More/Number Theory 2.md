@@ -1,3 +1,7 @@
+---
+tags:
+  - Discrete-Math
+---
 
 
 Number Theory 1 is the introduction: modulo.
