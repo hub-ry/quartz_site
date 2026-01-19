@@ -3,11 +3,13 @@ The reason I started this project was to learn, but also because using third par
 This Linux PC will stay on 24/7, in my university dorm.
 #### Hardware
 
+```
 Model : HP Slimline Desktop PC 270-p0xx
 Processor : Intel Core i3- 7100 x 4
 Memory : 16 gigs , i added an extra 8 gigs of ram
 Graphics : Intel HD Graphics 630 (integrated)
 Disk Capacity : 1.0 TB
+```
 
 This was a pc I found in my family's attic. I only added extra ram because I had some lying around. 
 
