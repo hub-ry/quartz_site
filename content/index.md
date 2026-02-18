@@ -40,3 +40,4 @@ Feeling Lost? Start Here:
 
 **What I've Been up to Lately:** 
 [[Building Personal Linux SSH Server]]
+[[Best LLM Prompts for Learning]]
